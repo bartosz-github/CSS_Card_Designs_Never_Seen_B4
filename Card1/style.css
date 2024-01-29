@@ -43,3 +43,8 @@ h2 {
     font-size: 30px;
 }
 
+p{
+    line-height: 22px;
+    padding: 20px 0;
+    margin: 20px 0;
+}
