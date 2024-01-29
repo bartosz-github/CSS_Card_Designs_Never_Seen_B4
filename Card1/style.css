@@ -26,5 +26,8 @@ body {
     background: darkslateblue;
     z-index: 1;
     transition: 1s;
+}
 
+.card-container:hover::before {
+    bottom: 0;
 }
