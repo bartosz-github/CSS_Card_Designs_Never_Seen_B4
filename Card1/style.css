@@ -56,3 +56,7 @@ a {
     background: rgb(22, 7, 35);
     padding: 0.6rem 1rem;
 }
+
+.card-container:hover .content {
+    color: #fff;
+}
