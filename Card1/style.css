@@ -15,3 +15,8 @@ body {
     background: white;
     overflow: hidden;
 }
+
+.card-container::before {
+    content: "";
+    position: absolute;
+}
