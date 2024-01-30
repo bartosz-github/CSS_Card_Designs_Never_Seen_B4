@@ -50,6 +50,10 @@ body {
     z-index: 2;
 }
 
+.card:hover .imgBox {
+    bottom: 80px;
+}
+
 img {
     position: absolute;
     top: 0;
