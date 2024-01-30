@@ -1,3 +1,8 @@
 body {
-    background-color: darkslategray;
+    margin: 0;
+    height: 100vh;
+    background: linear-gradient(#0093e9, #80d0c7);
+    /* background-color: darkslategray; */
+    
+
 }
